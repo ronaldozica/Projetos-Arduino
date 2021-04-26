@@ -9,7 +9,6 @@
 
 <h2> 🔎 Descrição </h2> 
 <p> Projetos desenvolvidos no arduino. Esses projetos foram desenvolvidos durante o período em que fui monitor do Enxurrada de Bits e serviram para adquirir ideias de possíveis projetos para os alunos desenvolverem. desenvolvidos no arduino. </p>
-<p> Esses projetos foram desenvolvidos durante o período em que fui monitor do Enxurrada de Bits e serviram para adquirir ideias de possíveis projetos para os alunos desenvolverem.</p>
 
 <h2> 💻 IDE utilizada para desenvolver os projetos </h2> 
 <p> Tinkercad</p>
